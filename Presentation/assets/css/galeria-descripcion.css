@@ -1,0 +1,41 @@
+h1.hero-title, h2.hero-title, h3.hero-title {
+  text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  color: #fff;
+}
+
+p.hero-subtitle {
+  max-width: 600px;
+  margin: 25px auto;
+  padding: 10px 15px;
+  color: #fff;
+}
+
+div.jumbotron.hero-food {
+  color: #fff;
+  text-align: center;
+  background: url('../../assets/img/What-Is-Account-Takeover-Fraud-01.png');
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+h1.hero-title, h2.hero-title, h3.hero-title {
+  text-shadow: 5px 4px rgba(0,0,0,0.4);
+  color: #ffffff;
+}
+
+p.hero-subtitle {
+  max-width: 600px;
+  margin: 25px auto;
+  color: #fff;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  /*font-family: "indie flower";*/
+}
+
+* {
+  margin: 10;
+}
+
